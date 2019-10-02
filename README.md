@@ -8,5 +8,6 @@ Wesley Vinicius
 Instruido por:  
 Giuliano
   
-Link para o projeto: https://glitch.com/edit/#!/military-queen?path=index.html:1:0  
+Link para o codigo do projeto: https://glitch.com/edit/#!/military-queen  
 
+Link do projeto em funcionamento: https://military-queen.glitch.me/  
