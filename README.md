@@ -6,7 +6,7 @@ Otavio Raposo
 Wesley Vinicius  
 
 Instruido por:  
-Giuliano
+Giuliano Araujo Bertoti
   
 Link para o codigo do projeto: https://glitch.com/edit/#!/military-queen  
 
