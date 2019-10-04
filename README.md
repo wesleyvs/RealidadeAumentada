@@ -14,3 +14,4 @@ Link do projeto em funcionamento: https://military-queen.glitch.me/
   
   
 GIF do projeto:
+![](Project_Gif.gif)
