@@ -11,3 +11,6 @@ Giuliano Araujo Bertoti
 Link para o codigo do projeto: https://glitch.com/edit/#!/military-queen  
 
 Link do projeto em funcionamento: https://military-queen.glitch.me/  
+  
+  
+GIF do projeto:
