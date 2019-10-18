@@ -12,6 +12,7 @@ Link para o codigo do projeto: https://glitch.com/edit/#!/military-queen
 
 Link do projeto em funcionamento: https://military-queen.glitch.me/  
   
+Link do PWA: https://trainingdrill1.goodbarber.app/  
   
 GIF do projeto:  
 ![](Project_Gif.gif)
