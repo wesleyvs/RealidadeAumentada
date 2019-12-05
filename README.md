@@ -1,18 +1,42 @@
-# Laboratório de Desenvolvimento em Banco de Dados III (BD)
 
-### Realizado por:  
+
+
+military-queen
+
+Show
+
+README.md
+
+!
+# Laboratório de Desenvolvimento em Banco de Dados III (BD)
+​
+### Realizado por:
+​
 André Pires;  
 Otavio Raposo;  
 Wesley Vinicius.
-
-### Instruido por:  
+​
+### Tecnologias utilizadas: 
+- AR.js 1.7.5  
+- A-Frame 0.9.2  
+- Javascript  
+​
+### Training Drill AR 
+  A aplicação tem o intuito de auxiliar o treinamento de utilização das ferramentas,  
+utilizando a furadeira com auxilio do tripé e mostrar a importância deste equipamento.
+  
+Caso precise imprimir os marcadores pode clicar [aqui](https://github.com/wesleyvs/RealidadeAumentada/raw/master/Markers/Markers.pdf)
+​
+### Instruido por:
+​
 Giuliano Araujo Bertoti.
-
+​
 Link do projeto em funcionamento: <https://military-queen.glitch.me/>
-
-### GIF do projeto:  
-![](Project_Gif_.gif)
-
+​
+### [Repostór](https://github.com/wesleyvs/RealidadeAumentada)[i](https://www.youtube.com/watch?v=I4rdDQxdwDI)[o no GitHub](https://github.com/wesleyvs/RealidadeAumentada)
+​
+### GIF do projeto:
+![](https://github.com/wesleyvs/RealidadeAumentada/raw/master/Project_Gif_.gif)
 
 ### Implementação da aplicação: 
 [Código HTML](https://glitch.com/edit/#!/military-queen?path=index.html)  
