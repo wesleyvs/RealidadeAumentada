@@ -4,7 +4,10 @@
 André Pires;  
 Otavio Raposo;  
 Wesley Vinicius.
-  
+    
+### Instruido por:
+Giuliano Araujo Bertoti.
+ 
 ### Tecnologias utilizadas: 
 - AR.js 1.7.5  
 - A-Frame 0.9.2  
@@ -16,10 +19,6 @@ utilizando a furadeira com auxilio do tripé e mostrar a importância deste equi
   
 Caso precise imprimir os marcadores pode clicar [aqui](https://github.com/wesleyvs/RealidadeAumentada/raw/master/Markers/Markers.pdf)
   
-### Instruido por:
-Giuliano Araujo Bertoti.
-  
-
 ### Implementação da aplicação: 
 [Código HTML](https://glitch.com/edit/#!/military-queen?path=index.html)  
 [Código JavaScript](https://glitch.com/edit/#!/military-queen?path=script.js)  
