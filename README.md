@@ -16,20 +16,4 @@ Link do projeto em funcionamento: <https://military-queen.glitch.me/>
 
 ### Implementação da aplicação: 
 [Código HTML](https://glitch.com/edit/#!/military-queen?path=index.html)  
-[Código JavaScript](https://glitch.com/edit/#!/military-queen?path=script.js)  
-  
-    
-      
-        
-          
-            
-              
-                
-                   
-                     
-                       
-                         
-                           
-                             
-# [Cucumber Again](https://www.youtube.com/watch?v=LqwFPuOCDPo)
-
+[Código JavaScript](https://glitch.com/edit/#!/military-queen?path=script.js)
