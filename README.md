@@ -20,8 +20,8 @@ utilizando a furadeira com auxilio do tripé e mostrar a importância deste equi
 Caso precise imprimir os marcadores pode clicar [aqui](https://github.com/wesleyvs/RealidadeAumentada/raw/master/Markers/Markers.pdf)
   
 ### Implementação da aplicação: 
-[Código HTML](https://glitch.com/edit/#!/military-queen?path=index.html)  
-[Código JavaScript](https://glitch.com/edit/#!/military-queen?path=script.js)  
+[Código HTML](https://glitch.com/edit/#!/trainning-drill-ar?path=index.html)  
+[Código JavaScript](https://glitch.com/edit/#!/trainning-drill-ar?path=script.js)  
 [Projeto em funcionamento](https://trainning-drill-ar.glitch.me/home-pc.html)  
 [Projeto no Glitch](https://glitch.com/edit/#!/trainning-drill-ar?path=README.md)  
   
