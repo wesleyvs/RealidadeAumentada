@@ -1,0 +1,51 @@
+<html> 
+    <script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script> 
+    <script src="https://raw.githack.com/jeromeetienne/AR.js/1.7.5/aframe/build/aframe-ar.js"></script> 
+    <body id="corpo" style="margin : 0px; overflow: hidden;"> 
+        <a-scene arjs="debugUIEnabled: false;">
+            <a-assets> 
+                <!--Modelo 3d Drill-->
+                <a-asset-item id="Drill" src="https://raw.githubusercontent.com/wesleyvs/RealidadeAumentada/master/Models/Drill/scene.gltf"></a-asset-item> 
+              
+                <!--Modelo 3d Tripé-->
+                <a-asset-item id="Tripod" src="https://raw.githubusercontent.com/wesleyvs/RealidadeAumentada/master/Models/Tripod/Tripod.gltf"></a-asset-item> 
+              
+                <!--Modelo 3d StopDrill
+                <a-asset-item id="StopDrill" src="hhttps://raw.githubusercontent.com/wesleyvs/RealidadeAumentada/master/Models/StopDrill/StopDrill.gltf"></a-asset-item> 
+                -->
+            </a-assets> 
+          
+            <!--Marker da furadeira-->
+            <a-marker id="markerDrill" preset="pattern" type="pattern" url="https://raw.githubusercontent.com/wesleyvs/RealidadeAumentada/master/Markers/Drill/Drill_Pattern.patt">
+                <a-entity id="drillModel" gltf-model="#Drill" scale="25 25 25" rotation="270 0 0" position="0 0 0"></a-entity> 
+            </a-marker>
+            
+            <!--Modelo 3d Chapa metalica-->
+            <a-asset-item id="Metal" src="https://raw.githubusercontent.com/wesleyvs/RealidadeAumentada/master/Models/MetalPlate/scene.gltf"></a-asset-item>
+            <a-entity id="MetalPlate" gltf-model="#Metal" scale="0.5 0.5 0.2" rotation="0 0 0" position="-0.02 0 0.01"></a-entity>
+
+          
+            <!--Marker do tripé-->
+            <a-marker id="markerTripod" preset="pattern" type="pattern" url="https://raw.githubusercontent.com/wesleyvs/RealidadeAumentada/master/Markers/Tripod/Tripod_Pattern.patt">
+                <a-entity id="tripodModel" gltf-model="#Tripod" scale="4 4 4" rotation="-6 -1 0" position="0 -1 -0.5"></a-entity> 
+            </a-marker>
+          
+            <a-asset-item id="Erro" src="https://raw.githubusercontent.com/wesleyvs/RealidadeAumentada/master/Models/MetalPlate%2BDrill/scene.gltf"></a-asset-item>
+            <a-entity id="ModelErro" gltf-model="#Erro" scale="15 15 15" rotation="-6 -1 0" position="0 0 -3.5"></a-entity>
+            
+            <a-asset-item id="Correto" src="https://raw.githubusercontent.com/wesleyvs/RealidadeAumentada/master/Models/MetalPlate%2BTripod%2BDrill/scene.gltf"></a-asset-item>
+            <a-entity id="ModelCorrect" gltf-model="#Correto" scale="15 15 15" rotation="-6 -1 0" position="0 0 -3.5"></a-entity>
+          
+            <a-asset-item id="OK" src="https://raw.githubusercontent.com/wesleyvs/RealidadeAumentada/master/Models/MetalPlate%2BTripod/scene.gltf"></a-asset-item>
+            <a-entity id="ModelOK" gltf-model="#OK" scale="15 21 15" rotation="-6 -1 0" position="0 -0.2 -3.5"></a-entity>
+          
+            <a-entity camera></a-entity> 
+        </a-scene> 
+      
+      <div id="load"></div>
+      
+      <script src="script.js"></script>
+    </body> 
+</html>
+
+

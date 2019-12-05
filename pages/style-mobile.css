@@ -1,0 +1,53 @@
+div.container{
+	width: 90%;
+	height: 95%;
+	margin: 0 auto;
+  padding: 30px;
+  text-align: center;
+  border-style: outset ;
+  border-color: #0B0B61;
+  border-width: 3px;
+}
+
+body {
+  background-image: linear-gradient(to top, white, #BFEFFF);
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 90px;
+  color: white;
+  margin: 0px 0px 15px 0px;
+  color: #0B0B61;
+}
+
+b{
+  font-size: 50px;
+  color: #0B0B61;
+}
+
+h2 {
+  font-size: 50px;
+  color: white;
+  margin: 150px 0px 50px 0px;
+  color: #0B0B61;
+}
+
+p{
+  font-size: 40px;
+  color: #0B0B61;
+  margin: 150px 0px 50px 0px;
+}
+
+button{
+  background-image: linear-gradient(to top, white, #BFEFFF);
+  width: 250px;
+  height: 100px;
+  margin: 150px 25px 0px 10px;
+  border-style: outset ;
+  border-color: #0B0B61;
+  border-width: 3px;
+  font-size: 40px;
+  font-weight: bold;
+}

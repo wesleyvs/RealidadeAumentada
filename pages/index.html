@@ -1,0 +1,31 @@
+<html>
+  <body>
+    <script>
+      //RECONHECIMENTO DA PAGINA SENDO CARREGADA VIA SMARTPHONE
+      function detectar_mobile() {
+        if (
+          navigator.userAgent.match(/Android/i) ||
+          navigator.userAgent.match(/webOS/i) ||
+          navigator.userAgent.match(/iPhone/i) ||
+          navigator.userAgent.match(/iPad/i) ||
+          navigator.userAgent.match(/iPod/i) ||
+          navigator.userAgent.match(/BlackBerry/i) ||
+          navigator.userAgent.match(/Windows Phone/i)
+        ) {
+          return true;
+        } else {
+          //RECONHECIMENTO DA PAGINA SENDO CARREGADA VIA COMPUTADOR
+          return false;
+        }
+      }
+
+      if (detectar_mobile() == true) {
+        //Alterar para pagina mobile
+        window.location.href = "/home-mobile.html";
+      } else {
+        //Alterar para pagina pc
+        window.location.href = "/home-pc.html";
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <title>Training Drill AR</title>
+    <link rel="stylesheet" type="text/css" href="/style-mobile.css"/> 
+  </head>
+  <body>
+    <div class="container">
+      <h1>Training Drill AR</h1>  
+      <img src="https://cdn.glitch.com/490e8b4f-2193-48cd-923a-77f0e99dfb46%2Flogo_latecoere.png?v=1574486040640" width="400">
+      <h2>Aplicação para treinamento</h2>
+      
+      <p>
+          A aplicação tem o intuito de auxiliar o treinamento da furadeira utilizando o tripé e mostrar
+        a importância deste equipamento.
+        <br>
+          Para usar esta ferramenta, por favor utilize os marcadores para visualizar o tripé e a furadeira.
+        <br>
+          <strong>Utilize o celular no modo paisagem para prosseguir com o treinamento.</strong>
+      </p>
+      
+      <b>Aguarde orientações do instrutor!</b>
+      
+      <br>
+      <div class="botoes">
+        <button onclick="iniciarAplicacao()"> Iniciar</button>
+
+        <button onclick="baixarMarkers()">Marcadores</button>
+
+        <button onclick="help()">?</button>
+      </div>
+    </div>    
+    
+    <script>
+      function iniciarAplicacao() {
+        window.location.href="/application.html";
+      }
+      
+      function baixarMarkers() {
+        window.location.href="https://github.com/wesleyvs/RealidadeAumentada/raw/master/Markers/Markers.pdf";
+      } 
+      function help() {
+        alert("Desenvolvido por:\nAndre de S. A. Pires\nOtavio A. Raposo Barreto\nWesley V. Silva\n\nInstruido por:\nGiuliano Bertoti");
+      }
+      
+    </script>
+  </body>
+</html>
