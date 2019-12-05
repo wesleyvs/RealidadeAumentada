@@ -22,8 +22,8 @@ Caso precise imprimir os marcadores pode clicar [aqui](https://github.com/wesley
 ### Implementação da aplicação: 
 [Código HTML](https://glitch.com/edit/#!/military-queen?path=index.html)  
 [Código JavaScript](https://glitch.com/edit/#!/military-queen?path=script.js)  
-[Projeto em funcionamento](https://trainning-drill-ar.glitch.me/home-pc.html)
-[Projeto no Glitch](https://glitch.com/edit/#!/trainning-drill-ar?path=README.md)
+[Projeto em funcionamento](https://trainning-drill-ar.glitch.me/home-pc.html)  
+[Projeto no Glitch](https://glitch.com/edit/#!/trainning-drill-ar?path=README.md)  
   
 ### [Repostór](https://github.com/wesleyvs/RealidadeAumentada)[i](https://www.youtube.com/watch?v=I4rdDQxdwDI)[o no GitHub](https://github.com/wesleyvs/RealidadeAumentada)
   
