@@ -11,7 +11,7 @@ Giuliano Araujo Bertoti.
 Link do projeto em funcionamento: <https://military-queen.glitch.me/>
 
 ### GIF do projeto:  
-![](https://github.com/wesleyvs/RealidadeAumentada/blob/master/Project_Gif.gif?raw=true)
+![](Project_Gif_.gif)
 
 
 ### Implementação da aplicação: 
